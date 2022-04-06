@@ -13,6 +13,7 @@ A list of technologies used within the project:
 *free api: any-api.com
 *picture perfect img blog:  https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/
 *How to display Image from folder in react: https://codingstatus.com/how-to-display-images-in-react-js/
+*For react tailwind ready to use components: https://larainfo.com/blogs/tailwind-css-3-faq-accordion-ui-example
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
