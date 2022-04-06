@@ -12,26 +12,7 @@ picture perfect img blog:  https://stackoverflow.blog/2022/03/28/picture-perfect
 How to display Image from folder in react: https://codingstatus.com/how-to-display-images-in-react-js/
 For react tailwind ready to use components: https://larainfo.com/blogs/tailwind-css-3-faq-accordion-ui-example 
 for tailwind component: https://tailwind-elements.com/quick-start/
-
-# Getting Started with Create React App
-=======
-# Important sites
-## Technologies
-***
-A list of technologies used within the project:
-*Important sites:
-*react chart: https://recharts.org/en-US/guide/getting-started
-*free pics: splash
-*react Icons: heroIcons
-*React-router site: https://reactrouter.com/docs/en/v6
-*fake-data-generation: https://json-generator.com/
-*for auto file path import in VS code: extenstion-> Path Intellisense
-*tailwind css component library: https://flowbite.com/docs/getting-started/quickstart/
-*free api: any-api.com
-*picture perfect img blog:  https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/
-*How to display Image from folder in react: https://codingstatus.com/how-to-display-images-in-react-js/
-*For react tailwind ready to use components: https://larainfo.com/blogs/tailwind-css-3-faq-accordion-ui-example
->>>>>>> 6a8d728d8748353335a3a57f684dbdeca9d3437e
+How to use react tailwind Flowbite(installation): https://flowbite.com/docs/getting-started/react/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
